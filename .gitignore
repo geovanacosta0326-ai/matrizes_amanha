@@ -1,0 +1,6 @@
+# Credenciais reais — NUNCA subir para o GitHub
+usuarios.local.js
+
+# Arquivos comuns de sistema
+.DS_Store
+Thumbs.db
